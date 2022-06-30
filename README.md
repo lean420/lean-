@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="">
-<h1 align="center">Hi 👋, I'm Alexander García</h1>
+<h1 align="center">Hi 👋, I'm Juan Pablo Colorado</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexgarpul&label=Profile%20views&color=0e75b6&style=flat" alt="alexgarpul" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, javaScript and MYSQL**
 
-- 📫 How to reach me **alexandergarciaclei5b@gmail.com**
+- 📫 How to reach me **juanpablocoloradoalvarez@gmail.com**
 
 - ⚡ Fun fact **I like writing, reading, singing and other things.**
 
