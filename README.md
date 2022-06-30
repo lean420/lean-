@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/1fZN.mp4" alt="">
+<img src="https://media3.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=790b76111f1d876f26e341b8df0402798f5b77b5bdc295ac&rid=giphy.gif&ct=g" alt="">
 <h1 align="center">Hi 👋, I'm Juan Pablo Colorado</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
