@@ -1,5 +1,4 @@
-img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="100%">
-
+<img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="">
 <h1 align="center">Hi 👋, I'm Alexander García</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
